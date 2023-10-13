@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jon</h1>
-<h3 align="center">A Full Stack Software Engineer</h3>
+<h3 align="center">Senior Software Engineer / Full Stack Web Developer</h3>
 
 - 🔭 I’m currently working on [CoverLetterAI](https://github.com/jonada182/cover-letter-ai)
 
